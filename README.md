@@ -1,5 +1,5 @@
 # encode
-this is a library to encode 'Bae64'
+this is a library to encode 'Base64'
 
 simply pull the repository and run
 
