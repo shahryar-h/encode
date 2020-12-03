@@ -8,6 +8,7 @@ pour changer de test avec une entrée différente, vous pouvez changer la variab
 un test unitaire déjà fourni pour la méthode principale Encode.
 
 ===========================================================================
+
 this is a library to encode 'Base64'
 
 simply pull the repository and run
